@@ -1,0 +1,55 @@
+*{
+  font-weight: "Arial", Verdana, sans-serif;
+}
+body {
+  background-color: lightgrey;
+    }
+.NaviLinks {
+  font-size: 16px;
+  padding: 6px 10px 10px 10px;
+  //height:250px;
+  text-align: right;
+  margin-right: 30px;
+
+}
+.HorizBan {
+  margin: -20px;
+  text-align: center;
+  position: relative;
+  bottom: 25px;
+}
+.seahorse {
+  position: relative;
+  bottom: 35px;
+  
+  }
+.Background, .Zen, .Interests {
+  width: 29%;
+  float: left;
+  margin: 10px;
+  border: 4px dotted; lightgrey;
+  font-size: 18px;
+  align-items: center;
+  text-align: center;
+  font-family: gill sans;
+  position: relative;
+  bottom: 140px;
+}
+.Background {
+  background-color: darkgrey;
+  }
+.Interests {
+  background-color: darkgrey;
+}
+
+.GmaKitchen {
+  position: relative;
+  bottom: 120px;
+  left: 480px;
+  border-radius: 400px;
+
+}
+.footerLinks {
+
+  text-align: center;
+}
